@@ -1,2 +1,2 @@
 # Summer_Camp_Python
-Accenture Internship Summer Camp Teaching Python 
+Madrid Innovation Lab Summer Camp Teaching Python 
